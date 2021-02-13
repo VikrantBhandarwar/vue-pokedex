@@ -12,4 +12,5 @@ module.exports = {
         plugins,
         optimization,
     },
+    mode: 'production'
 };
